@@ -28,7 +28,7 @@ $$
 $$
 
 其中HSIC是Hilbert-Schmidt独立性准则[15]。 给定定心矩阵H=in-1n11t和定心革兰矩阵K=HKH和L=HLH,HSIC(K,L)=VEC(K)·VEC(L)/(M-1)2,给出了这些定心革兰矩阵之间的相似性。 CKA对表示的正交变换（包括神经元排列）是不变的，归一化项保证了对各向同性标度的不变性。 这些性质使得神经网络隐藏表示能够进行有意义的比较和分析。 为了对我们的模型和任务进行大规模工作，我们使用Minibables近似HSIC[39]的无偏估计，如[29]所建议的。 
-
+![1_2](https://user-images.githubusercontent.com/108515137/176866170-68291214-fe13-42ec-92ff-86b650b43e32.png)
 
 ## **😋😋😋Please donate a little star for me😋😋😋**
-![1_2](https://user-images.githubusercontent.com/108515137/176866170-68291214-fe13-42ec-92ff-86b650b43e32.png)
+
