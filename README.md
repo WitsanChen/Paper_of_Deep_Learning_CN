@@ -1,0 +1,2 @@
+# Paper_of_Deep_Learning_CN
+翻译前言深度学习论文
